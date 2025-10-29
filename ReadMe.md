@@ -22,4 +22,4 @@ Season 1 starts with loud Viking battles. A sneaky prince named Canute and a sup
 ### 5. Should you watch it?    
 If you like action AND thinking about why people fight, yes. Start with Season 1 if you can handle animated blood. If you only want cozy farming and friendship, jump to Season 2; the show tells you everything you need to know in the first episode. Recommended for ages 13+   
 ### Cover Art  
-![6356519](Attachments/6356519.jpg)  
+![6356519](6356519.jpg)  

@@ -1,15 +1,4 @@
 
-    <style>
-        .CodeMirror {
-            color: #FF3333 !important;
-        }
-    
-        .EasyMDEContainer {
-             background-color: #F8FF91 !important;
-        }
-    </style>
-
-
 # **Movie/show/Anime Review**  
 
 ## **Vinland Saga – Seasons 1 & 2  - Review**  

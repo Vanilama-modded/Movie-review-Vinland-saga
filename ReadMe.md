@@ -1,12 +1,13 @@
-<style>
-    .CodeMirror {
-        color: #FF3333 !important;
-    }
+
+    <style>
+        .CodeMirror {
+            color: #FF3333 !important;
+        }
     
-    .EasyMDEContainer {
-         background-color: #F8FF91 !important;
-    }
-</style>
+        .EasyMDEContainer {
+             background-color: #F8FF91 !important;
+        }
+    </style>
 
 
 # **Movie/show/Anime Review**  
